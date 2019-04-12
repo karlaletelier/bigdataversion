@@ -15,7 +15,7 @@ Too deep (yeah yeah)
 
 ## Tarea 2 Big Data
 
-El dia de hoy he elegido la pagina **GENIUS** [(https://genius.com/)], la cual me permite buscar las letras completas de canciones
+El dia de hoy he elegido la pagina **GENIUS** [genius](https://genius.com/), la cual me permite buscar las letras completas de canciones
 de todos los artistas, del mas popular al mas desconocido, encontramos tambien:
 
 * Informacion de artistas
