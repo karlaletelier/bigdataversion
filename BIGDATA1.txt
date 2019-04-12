@@ -1,0 +1,20 @@
+##Tarea 1 Big Data
+-
+
+El dia de hoy he elegido la pagina **GENIUS** [(https://genius.com/)], la cual me permite buscar las letras completas de canciones
+de todos los artistas, del mas popular al mas desconocido, encontramos tambien:
+
+*Informacion de artistas
+*Traducciones varios idiomas
+*Visitas
+*Opcion de compartir en redes sociales ***(Twitter y Facebook)***
+*Ranking de letras mas buscadas en el dia, mes y todo el tiempo.
+*Noticias de artistas y musica.
+~~~
+Esta pagina se maneja principalmente por las mismas personas de la red que suben contenido y se puede ir arreglando en caso de
+errores ortograficos, cada personas tiene una cantidad de puntos llamados **IQ** que van obteniendo a traves de la cantidad de 
+contenido subido correctamente, lo que hace que la persona que tenga mayor cantidad de puntos es una informacion confiable en 
+este caso de la musica. 
+~~~
+***Mi idea es utilizar **GENIUS** con el fin de extraer los datos de las canciones mas buscada e identificar el genero mas buscado 
+en traducciones.***
